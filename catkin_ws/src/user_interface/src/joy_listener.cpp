@@ -7,7 +7,7 @@
 #define B_TOGGLE_ACTIVATION  buttons[0]
 #define B_BRAKE              buttons[1]
 #define B_STOP               buttons[5]
-#define A_VEL                axes[4]
+#define A_VEL                axes[1]
 #define A_STEER              axes[0]
 
 #define MAX_VEL_MPS     3.0
