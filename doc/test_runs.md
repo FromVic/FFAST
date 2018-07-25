@@ -40,6 +40,7 @@ Refer to the [schematic](controller.jpg) for details.
 $ roslaunch ffast ffast.launch
 ```
 This command will launch hardware, localiztion and planning at the same time.
+
 Or you can launch them step by step to check status of each function
 ```bash
 $ roslaunch hardware hardware.launch
