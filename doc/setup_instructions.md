@@ -32,7 +32,7 @@ Refer to the [bill of materials](bill\ of\ materials.xlsx) for the complete list
 2. Manufacture the PCB with the [eagle and gerber files](RC\ car\ power\ distribution\ board/).
 3. Setup the electrical connections according to the [circuit diagram](circuit_diagram.pdf).
 4. Load the firmware into the VESC and calibrate its settings (instructions [here](vesc_setup.md)).
-5. Assemble the car according to the 3D mechanical design of the vehicle from [here](CAD files/).
+5. Assemble the car according to the 3D mechanical design of the vehicle from [here](CAD files\).
 6. [Install ROS](http://wiki.ros.org/kinetic/Installation/Ubuntu) and all other [package dependencies](dependencies.md) on the Jetson TX2.
 7. Set the udev rules on the Jetson (for the VESC, IMU and LIDAR) and the local computer (for the controller). Refer to the [rules file](99-usb-serial.rules) and use the same symbolic links, changing the values accordingly.
 8. Have a local computer with ROS and the same packages installed to remotely control the car.
