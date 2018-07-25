@@ -41,7 +41,7 @@ $ roslaunch ffast ffast.launch
 ```
 This command will launch hardware, localiztion and planning at the same time.
 
-Or you can launch them step by step to check status of each function
+Or you can launch them step by step to check status of each part.
 ```bash
 $ roslaunch hardware hardware.launch
 $ roslaunch localization localization.launch
