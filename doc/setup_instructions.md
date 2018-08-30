@@ -28,8 +28,8 @@ Other parts required include:
 Refer to the [bill of materials](bill\ of\ materials.xlsx) for the complete list and websites the parts were sourced from in our project.
 
 ## Steps
-1. Laser cut the acrylic plates with the [DXF files](dxf\ files/).
-2. Manufacture the PCB with the [eagle and gerber files](RC\ car\ power\ distribution\ board/).
+1. Laser cut the acrylic plates with the DXF files in doc folder.
+2. Manufacture the PCB with the eagle and gerber files.
 3. Setup the electrical connections according to the [circuit diagram](circuit_diagram.pdf).
 4. Load the firmware into the VESC and calibrate its settings (instructions [here](vesc_setup.md)).
 5. Assemble the car according to the 3D mechanical design of the vehicle from [here](FFAST_Assem.SLDASM).
