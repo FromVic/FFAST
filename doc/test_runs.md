@@ -27,7 +27,7 @@ The launch arguments are:
 - use_amcl  
   Set to true to perform particle filter localization on the LIDAR scans and include the output in the EKF. If true, a map must be provided.
 - map  
-  The name of the map. The map files (pgm and yaml) must be placed inside the map folder inside the ffast package.
+  The name of the map. The map files (pgm and yaml) must be placed inside the map folder inside the ffast package. Please make sure cartain map is used when localization is launched, it would influence the result of test.
 
 ## Teleoperation of the car
 In the local computer with a controller connected,
