@@ -1,4 +1,5 @@
 # Test Runs
+To power up the car, plug battery into voltage input plug on the power distribution board, and press the VESC switch button beside it. Once the blue light on VESC is turned on, press power button of the Jestson then the whole system will be turned on.
 
 After powering up the Jetson and the VESC with the on-board battery and setting up the necessary remote network connections, the car is ready for running.
 
